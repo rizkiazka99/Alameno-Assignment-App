@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:alemeno_internship_assignment_app/app/data/firebase_implementation.dart';
 import 'package:alemeno_internship_assignment_app/app/data/firebase_use_case.dart';
 import 'package:alemeno_internship_assignment_app/app/routes/app_pages.dart';
@@ -12,7 +11,6 @@ import 'package:image_picker/image_picker.dart';
 
 class MealController extends GetxController {
   final ImagePicker _imagePicker = ImagePicker();
-  final FirebaseStorage _firebaseStorage = FirebaseStorage.instance;
 
   String _foodName = '';
 

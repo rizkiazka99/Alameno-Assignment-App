@@ -1,6 +1,5 @@
 import 'package:alemeno_internship_assignment_app/app/utils/colors.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class DefaultRoundButton extends StatelessWidget {
   final void Function()? onTap;

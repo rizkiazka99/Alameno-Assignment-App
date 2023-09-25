@@ -9,6 +9,7 @@ import '../controllers/initial_controller.dart';
 
 class InitialView extends GetView<InitialController> {
   const InitialView({Key? key}) : super(key: key);
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(

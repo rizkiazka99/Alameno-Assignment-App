@@ -1,7 +1,5 @@
-import 'package:alemeno_internship_assignment_app/app/routes/app_pages.dart';
 import 'package:alemeno_internship_assignment_app/app/utils/colors.dart';
 import 'package:alemeno_internship_assignment_app/app/utils/constants.dart';
-import 'package:alemeno_internship_assignment_app/app/utils/helpers.dart';
 import 'package:alemeno_internship_assignment_app/app/widgets/bottom_sheets.dart';
 import 'package:alemeno_internship_assignment_app/app/widgets/default_round_button.dart';
 import 'package:flutter/material.dart';
